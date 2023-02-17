@@ -33,6 +33,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Lifecycle Stages
 
+--- 
+## Intake
+
 ![osTicket](./osTicket.jpeg)
 ![banking down](./bankingDown.jpeg)
 
@@ -44,3 +47,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - add an issue summary
 - add details
 - click "Create Ticket" at the bottom
+- create as many ticket as you need
+
+---
+
+## Assignment and Communication
+![alt](https://i.imgur.com/ISfE0G7.png)
+
+- Agents will be able to see live tickets in the agent panel. 
+- Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
+
+---
+
+![alt](https://i.imgur.com/uJtuLaK.png)
+
+- In this example we are setting the priority level of the ticket. 
+- The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. 
+- We have changed the SLA plan and assigned the ticket to a top level technician. 
+- In some ticketing system customers can set their own SLA plans. 
